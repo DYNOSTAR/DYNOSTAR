@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua muhoro Ndirangu. Fourth Year Student currently pursuing bachelor of science in computer science at karatina university.
+- 👋 Hi, I’m Joshua muhoro Ndirangu.Bsc computer science of karatina university. Class of 2026
 - 👀 I’m a software developer, web developer, and an Artificial Intelligence Enthusiast.
 - Skills and Experiences:
 - S/w DEV:Python/C/C++/Java
